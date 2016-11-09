@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/platy11
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://platy11.github.io
+  * I am platy11 (https://keybase.io/platy11) on keybase.
+  * I have a public key with fingerprint 7BB1 03F9 4B58 FD8F 7E03  167B 3ECD E55A A15F E7A5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d138e9499d78ecc4f708c50536709b42063d574856b91511773cd8497230c4990a",
+            "fingerprint": "7bb103f94b58fd8f7e03167b3ecde55aa15fe7a5",
+            "host": "keybase.io",
+            "key_id": "3ecde55aa15fe7a5",
+            "kid": "0101d138e9499d78ecc4f708c50536709b42063d574856b91511773cd8497230c4990a",
+            "uid": "11375bd58f88038e684a168ac4cb2b19",
+            "username": "platy11"
+        },
+        "service": {
+            "hostname": "platy11.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478652668,
+    "expire_in": 157680000,
+    "prev": "e30b19854e3c0cdd2872c78ebfb22a96f76924efa9a86e8fbb2e63d493bec5e4",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBRRGF4vKVpWKBbBFjSR3RaZM7dzZn0xie6YRPeidc7MGXfSZtbZ
+WXMxyUsRplQYRSCJYUo9hEuWFYRlBEUXK4ooMiKtQFAojYywyxmrh6DHzsvh/Of7
+vv/7P/5baQme1Lj1vozMsY9PV8Xd62mKeLYw9ngFgy0tyvgrmGIycZESjYSdQLGh
+MX6GBSzQAI+ILMiyBhFRVUGHLFJFVuQlyMpY4FiJ10QoIFHCMhABgJBXNSTIkONZ
+ldJYhfExumEWETtkG6ZDZSHGgOV1WcAi0jWkQ8LyQIKYJ6pGRFFRgKgTqIiUGLTC
+LoOaw0qYZBsWrdFHYMLeP/D/2XdkQg4AHopYo2YRYqmqhAQFSEhRBRVzGMguMExs
+U9lNKDpUojhRAJhKH0OLZYZK3FzdQf4GZBcZTjCCf80Usi3HUq0S+h10nFDY79Kd
+aMjF7yE48FspgA1To1lSRhmxw4ZlMn5AkapjuNJAgEgSOUlCPoaUhwybBAwXIUIJ
+sfS4fUgZlSQ8S30jUSC8yqqaxiHIqTQnrGOOU2RJh5LMCURXZAVJBOkYc4TmJcg8
+JqpIBMadrdS0GD9PbSpFVDJsFJmKE7EJU3nzxo5ET1yqJ2lSvLtjntSU6X82L+V4
+8o9l73LGP/gycjIzn931fX7wcGPCYV+W+OLt7eiT8KbbsedzO1YOPuttSJq2GF3P
+mh/UM7VYa+EM/7oY8O6v/dJs9rUVcDXe5WeqDuacfdCw6MnoAfNYT+7j+BND+Z78
+nq9V5NCjUF3xku+r1+ZfvPRq9r7clPaXe0fg0vveXWmx+sYjulcfDEitaltCtD94
+7VTJguFYf0ePtfNKU/Lk2vsX4pbn7S5Y5pkz9tocre72dvfPS2k/n7FhYHvhrN7y
+N8MNref60vHVrSuSevu7Bt4fbbw8s76zc0p1rV6ad3eq/S5S39zVdrpFPrAiPr24
+pXNhdfW2OzV1qd8216xJrImNnPw09BMFVz+p
+=jsGs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/platy11
+
+==================================================================
