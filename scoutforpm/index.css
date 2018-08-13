@@ -1,0 +1,54 @@
+body {
+  font-family: Barlow, sans-serif;
+  background-image: url('scout1.jpg');
+  background-size: cover;
+}
+
+body * {
+  margin: 0;
+  padding: 0;
+}
+
+.document {
+  position: absolute;
+  top: 5vh;
+  left: 20vw;
+  width: 60vw;
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: #fff8;
+  margin-bottom: 20px;
+}
+
+h1, h3 {
+  font-size: 3rem;
+}
+
+span[data-in-box] {
+  border: 3px solid black;
+  padding: 0 10px;
+}
+
+img {
+  width: 20%;
+}
+
+button {
+  padding: 10px;
+  outline: none;
+  border: 2px solid black;
+  font-family: Barlow, sans-serif;
+  font-size: 2rem;
+  border-radius: 4px;
+  background-color: #fff;
+  transition: background-color 0.2s;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #eee;
+}
+
+button:active {
+  background-color: #ddd;
+}
